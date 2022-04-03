@@ -6,7 +6,7 @@
 
 - 🔍 I’m currently focused on **React.**
 
-- ✒️ I publish articles on my blog, [jpreagan.com](jpreagan.com)
+- ✒️ I publish articles on my blog, [jpreagan.com](https://jpreagan.com)
 
 - ✉️ You can reach me at **aloha@jpreagan.com**
 
