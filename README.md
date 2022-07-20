@@ -16,10 +16,14 @@
 
 ### Recent videos
 
-<!-- YOUTUBE:START -->
-- [Making a Create React App template with TypeScript and static testing tools](https://www.youtube.com/watch?v=PkT0MieM9dM)
-- [Why I chose Gatsby for my personal website](https://www.youtube.com/watch?v=u3f_vAhZKLw)
-- [Working in public](https://www.youtube.com/watch?v=L4q6THk2D9E)
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=PkT0MieM9dM"><img width="140px" src="https://i.ytimg.com/vi/PkT0MieM9dM/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=PkT0MieM9dM">Making a Create React App template with TypeScript and static testing tools</a><br/>Tue Jul 19 2022 12:26 AM</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=u3f_vAhZKLw"><img width="140px" src="https://i.ytimg.com/vi/u3f_vAhZKLw/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=u3f_vAhZKLw">Why I chose Gatsby for my personal website</a><br/>Thu Jul 14 2022 11:02 PM</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=L4q6THk2D9E"><img width="140px" src="https://i.ytimg.com/vi/L4q6THk2D9E/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=L4q6THk2D9E">Working in public</a><br/>Thu Jul 14 2022 5:23 AM</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=opUHTYQ9E0w"><img width="140px" src="https://i.ytimg.com/vi/opUHTYQ9E0w/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=opUHTYQ9E0w">Getting started with your own domain and platform</a><br/>Mon Jun 06 2022 12:00 PM</td></tr></table>
 <!-- YOUTUBE:END -->
 
 ### Recent posts
