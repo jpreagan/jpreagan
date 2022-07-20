@@ -17,6 +17,7 @@
 ### Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Making a Create React App template with TypeScript and static testing tools](https://dev.to/jpreagan/making-a-create-react-app-template-with-typescript-and-static-testing-tools-1aii)
 <!-- BLOG-POST-LIST:END -->
 
 ### Connect with me:
