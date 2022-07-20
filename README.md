@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **james@jpreagan.com**
 
-### Blogs posts
+### Blog posts
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
