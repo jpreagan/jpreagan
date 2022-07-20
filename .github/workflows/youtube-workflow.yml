@@ -14,7 +14,5 @@ jobs:
         with:
           comment_tag_name: "YOUTUBE"
           feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCFBAMSjeJOmQ-gLrqczjRbg"
-          custom_tags: "channelId/yt:channelId/,videoId/yt:videoId/"
-          template: '<table><tr><td><a href="$url"><img width="140px" src="https://i.ytimg.com/vi/$videoId/mqdefault.jpg"></a></td>$newline<td><a href="$url">$title</a><br/>$date</td></tr></table>$newline'
-          committer_email: "james@jpreagan.com"
+          template: '<article style="display:flex;"><a href="$url" rel="nofollow"><img width="140px" src="https://i.ytimg.com/vi/$videoId/mqdefault.jpg" data-canonical-src="https://i.ytimg.com/vi/PkT0MieM9dM/mqdefault.jpg" /></a>$newline<div><a href="https://i.ytimg.com/vi/$videoId/mqdefault.jpg" rel="nofollow">$title</a><p>$date</p></div>$newline</article>$newline'
 
