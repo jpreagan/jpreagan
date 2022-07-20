@@ -2,7 +2,7 @@
 
 ### A software engineer in Hawaii
 
-- 🔭 I’m currently working on **building web applications in JavaScript.**
+- 🔭 I’m currently working on **performant and accessible web applications.**
 
 - 🌱 I’m currently learning **full stack JavaScript.**
 
@@ -14,7 +14,12 @@
 
 - 📫 How to reach me **james@jpreagan.com**
 
-### Blog posts
+### Recent videos
+
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
+
+### Recent posts
 
 <!-- BLOG-POST-LIST:START -->
 - [Making a Create React App template with TypeScript and static testing tools](https://dev.to/jpreagan/making-a-create-react-app-template-with-typescript-and-static-testing-tools-1aii)
