@@ -17,6 +17,9 @@
 ### Recent videos
 
 <!-- YOUTUBE:START -->
+- [Making a Create React App template with TypeScript and static testing tools](https://www.youtube.com/watch?v=PkT0MieM9dM)
+- [Why I chose Gatsby for my personal website](https://www.youtube.com/watch?v=u3f_vAhZKLw)
+- [Working in public](https://www.youtube.com/watch?v=L4q6THk2D9E)
 <!-- YOUTUBE:END -->
 
 ### Recent posts
