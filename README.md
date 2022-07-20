@@ -16,18 +16,14 @@
 
 ### Recent videos
 
-<!-- YOUTUBE:START --><article style="display:flex;"><a href="https://www.youtube.com/watch?v=PkT0MieM9dM" rel="nofollow"><img width="140px" src="https://i.ytimg.com/vi/$videoId/mqdefault.jpg" data-canonical-src="https://i.ytimg.com/vi/PkT0MieM9dM/mqdefault.jpg" /></a>
-<div><a href="https://i.ytimg.com/vi/$videoId/mqdefault.jpg" rel="nofollow">Making a Create React App template with TypeScript and static testing tools</a><p>Tue Jul 19 2022 12:26 AM</p></div>
-</article>
-<article style="display:flex;"><a href="https://www.youtube.com/watch?v=u3f_vAhZKLw" rel="nofollow"><img width="140px" src="https://i.ytimg.com/vi/$videoId/mqdefault.jpg" data-canonical-src="https://i.ytimg.com/vi/PkT0MieM9dM/mqdefault.jpg" /></a>
-<div><a href="https://i.ytimg.com/vi/$videoId/mqdefault.jpg" rel="nofollow">Why I chose Gatsby for my personal website</a><p>Thu Jul 14 2022 11:02 PM</p></div>
-</article>
-<article style="display:flex;"><a href="https://www.youtube.com/watch?v=L4q6THk2D9E" rel="nofollow"><img width="140px" src="https://i.ytimg.com/vi/$videoId/mqdefault.jpg" data-canonical-src="https://i.ytimg.com/vi/PkT0MieM9dM/mqdefault.jpg" /></a>
-<div><a href="https://i.ytimg.com/vi/$videoId/mqdefault.jpg" rel="nofollow">Working in public</a><p>Thu Jul 14 2022 5:23 AM</p></div>
-</article>
-<article style="display:flex;"><a href="https://www.youtube.com/watch?v=opUHTYQ9E0w" rel="nofollow"><img width="140px" src="https://i.ytimg.com/vi/$videoId/mqdefault.jpg" data-canonical-src="https://i.ytimg.com/vi/PkT0MieM9dM/mqdefault.jpg" /></a>
-<div><a href="https://i.ytimg.com/vi/$videoId/mqdefault.jpg" rel="nofollow">Getting started with your own domain and platform</a><p>Mon Jun 06 2022 12:00 PM</p></div>
-</article>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=PkT0MieM9dM"><img width="140px" src="https://i.ytimg.com/vi/$videoId/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=PkT0MieM9dM">Making a Create React App template with TypeScript and static testing tools</a><br/>Tue Jul 19 2022 12:26 AM</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=u3f_vAhZKLw"><img width="140px" src="https://i.ytimg.com/vi/$videoId/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=u3f_vAhZKLw">Why I chose Gatsby for my personal website</a><br/>Thu Jul 14 2022 11:02 PM</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=L4q6THk2D9E"><img width="140px" src="https://i.ytimg.com/vi/$videoId/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=L4q6THk2D9E">Working in public</a><br/>Thu Jul 14 2022 5:23 AM</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=opUHTYQ9E0w"><img width="140px" src="https://i.ytimg.com/vi/$videoId/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=opUHTYQ9E0w">Getting started with your own domain and platform</a><br/>Mon Jun 06 2022 12:00 PM</td></tr></table>
 <!-- YOUTUBE:END -->
 
 ### Recent posts
