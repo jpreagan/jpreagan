@@ -1,4 +1,4 @@
-# Hi 👋, I'm James Reagan
+# Aloha 👋, I'm James Reagan
 
 ### A software engineer in Hawaii
 
