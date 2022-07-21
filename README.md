@@ -92,10 +92,11 @@
   </a>
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jpreagan&" alt="jpreagan" />
-</p>
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=jpreagan)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jpreagan)](https://github.com/anuraghazra/github-readme-stats)
 
-<p align="left"><img src="https://komarev.com/ghpvc/?username=jpreagan&label=Profile%20views&color=0e75b6&style=flat" alt="jpreagan" /></p>
+[![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=jpreagan)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
+![profile views](https://gpvc.arturio.dev/jpreagan)
+
