@@ -29,6 +29,7 @@
 ### Recent posts
 
 <!-- BLOG-POST-LIST:START -->
+
 - [Making a Create React App template with TypeScript and static testing tools](https://dev.to/jpreagan/making-a-create-react-app-template-with-typescript-and-static-testing-tools-1aii)
 <!-- BLOG-POST-LIST:END -->
 
@@ -37,6 +38,8 @@
 <p align="left">
   <a href="https://twitter.com/jpreagan_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jpreagan_" height="30" width="40" /></a>
   <a href="https://linkedin.com/in/jpreagan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jpreagan" height="30" width="40" /></a>
+<a href="https://dev.to/jpreagan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="jpreagan" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/ucfbamsjejomq-glrqczjrbg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucfbamsjejomq-glrqczjrbg" height="30" width="40" /></a
 </p>
 
 ### Languages and Tools:
@@ -94,3 +97,5 @@
 </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<p align="left"><img src="https://komarev.com/ghpvc/?username=jpreagan&label=Profile%20views&color=0e75b6&style=flat" alt="jpreagan" /></p>
