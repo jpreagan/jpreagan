@@ -24,8 +24,6 @@
 <td><a href="https://www.youtube.com/watch?v=u3f_vAhZKLw">Why I chose Gatsby for my personal website</a><br/>Jul 14, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=L4q6THk2D9E"><img width="140px" src="https://i.ytimg.com/vi/L4q6THk2D9E/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=L4q6THk2D9E">Working in public</a><br/>Jul 14, 2022</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=opUHTYQ9E0w"><img width="140px" src="https://i.ytimg.com/vi/opUHTYQ9E0w/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=opUHTYQ9E0w">Getting started with your own domain and platform</a><br/>Jun 6, 2022</td></tr></table>
 <!-- YOUTUBE:END -->
 
 ### Recent posts
