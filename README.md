@@ -16,7 +16,9 @@
 
 ### Recent videos
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=6iFWHWfkwVI"><img width="140px" src="https://i.ytimg.com/vi/6iFWHWfkwVI/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=KJPeBNBPPRo"><img width="140px" src="https://i.ytimg.com/vi/KJPeBNBPPRo/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=KJPeBNBPPRo">Accessibility tools</a><br/>Jul 26, 2022</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=6iFWHWfkwVI"><img width="140px" src="https://i.ytimg.com/vi/6iFWHWfkwVI/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=6iFWHWfkwVI">Types at run time in JSX</a><br/>Jul 25, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=K_zN7PEuBRA"><img width="140px" src="https://i.ytimg.com/vi/K_zN7PEuBRA/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=K_zN7PEuBRA">TypeScript and PropTypes in React Applications</a><br/>Jul 22, 2022</td></tr></table>
@@ -24,8 +26,6 @@
 <td><a href="https://www.youtube.com/watch?v=PkT0MieM9dM">Making a Create React App template with TypeScript and static testing tools</a><br/>Jul 19, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=u3f_vAhZKLw"><img width="140px" src="https://i.ytimg.com/vi/u3f_vAhZKLw/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=u3f_vAhZKLw">Why I chose Gatsby for my personal website</a><br/>Jul 14, 2022</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=L4q6THk2D9E"><img width="140px" src="https://i.ytimg.com/vi/L4q6THk2D9E/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=L4q6THk2D9E">Working in public</a><br/>Jul 14, 2022</td></tr></table>
 <!-- YOUTUBE:END -->
 
 ### Recent posts
