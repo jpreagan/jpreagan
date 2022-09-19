@@ -31,7 +31,6 @@
 ### Recent posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Moving my personal website from Gatsby to Next.js](https://dev.to/jpreagan/moving-my-personal-website-from-gatsby-to-nextjs-g50)
 - [Starting a personal dashboard with the Spotify API](https://dev.to/jpreagan/starting-a-personal-dashboard-with-the-spotify-api-526p)
 - [Four ways to fetch data from the GitHub GraphQL API in Next.js](https://dev.to/jpreagan/four-ways-to-fetch-data-from-the-github-graphql-api-in-nextjs-p4i)
 - [Adding Cypress tests to a TypeScript project and deploying to Netlify](https://dev.to/jpreagan/adding-cypress-tests-to-a-typescript-project-and-deploying-to-netlify-450k)
