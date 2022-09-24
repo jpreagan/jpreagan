@@ -16,7 +16,9 @@
 
 ### Recent videos
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=ncYrUMWnFLQ"><img width="140px" src="https://i.ytimg.com/vi/ncYrUMWnFLQ/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=I3EgHcya0fc"><img width="140px" src="https://i.ytimg.com/vi/I3EgHcya0fc/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=I3EgHcya0fc">Give your blog superpowers with MDX in a Next.js project</a><br/>Sep 23, 2022</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=ncYrUMWnFLQ"><img width="140px" src="https://i.ytimg.com/vi/ncYrUMWnFLQ/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=ncYrUMWnFLQ">Server-render your Spotify data in a JavaScript application</a><br/>Sep 8, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=Bly6ek8sR9g"><img width="140px" src="https://i.ytimg.com/vi/Bly6ek8sR9g/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Bly6ek8sR9g">Four ways to fetch data from the GitHub GraphQL API in Next.js</a><br/>Aug 24, 2022</td></tr></table>
@@ -24,8 +26,6 @@
 <td><a href="https://www.youtube.com/watch?v=G86Qcdws6E0">Writing my first end-to-end tests with Cypress</a><br/>Jul 30, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=KJPeBNBPPRo"><img width="140px" src="https://i.ytimg.com/vi/KJPeBNBPPRo/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=KJPeBNBPPRo">Accessibility tools that I use in the browser everyday</a><br/>Jul 26, 2022</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=6iFWHWfkwVI"><img width="140px" src="https://i.ytimg.com/vi/6iFWHWfkwVI/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=6iFWHWfkwVI">Choosing types at run time in JSX</a><br/>Jul 25, 2022</td></tr></table>
 <!-- YOUTUBE:END -->
 
 ### Recent posts
