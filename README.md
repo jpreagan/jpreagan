@@ -31,6 +31,7 @@
 ### Recent posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Give your blog superpowers with MDX in a Next.js](https://dev.to/jpreagan/give-your-blog-superpowers-with-mdx-in-a-nextjs-15be)
 - [Starting a personal dashboard with the Spotify API](https://dev.to/jpreagan/starting-a-personal-dashboard-with-the-spotify-api-526p)
 - [Four ways to fetch data from the GitHub GraphQL API in Next.js](https://dev.to/jpreagan/four-ways-to-fetch-data-from-the-github-graphql-api-in-nextjs-p4i)
 - [Adding Cypress tests to a TypeScript project and deploying to Netlify](https://dev.to/jpreagan/adding-cypress-tests-to-a-typescript-project-and-deploying-to-netlify-450k)
