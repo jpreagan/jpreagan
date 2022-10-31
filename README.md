@@ -27,11 +27,11 @@
 ### Recent posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Why you should really take a look at PlanetScale](https://dev.to/jpreagan/why-you-should-really-take-a-look-at-planetscale-8kf)
 - [Give your blog superpowers with MDX in a Next.js project](https://dev.to/jpreagan/give-your-blog-superpowers-with-mdx-in-a-nextjs-project-334d)
 - [Starting a personal dashboard with the Spotify API](https://dev.to/jpreagan/starting-a-personal-dashboard-with-the-spotify-api-526p)
 - [Four ways to fetch data from the GitHub GraphQL API in Next.js](https://dev.to/jpreagan/four-ways-to-fetch-data-from-the-github-graphql-api-in-nextjs-p4i)
 - [Adding Cypress tests to a TypeScript project and deploying to Netlify](https://dev.to/jpreagan/adding-cypress-tests-to-a-typescript-project-and-deploying-to-netlify-450k)
-- [Making a Create React App template with TypeScript and static testing tools](https://dev.to/jpreagan/making-a-create-react-app-template-with-typescript-and-static-testing-tools-1aii)
 <!-- BLOG-POST-LIST:END -->
 
 ### Connect with me:
