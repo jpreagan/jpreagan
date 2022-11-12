@@ -29,11 +29,11 @@
 ### Recent posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Let&#39;s build a REST API with NestJS](https://dev.to/jpreagan/lets-build-a-rest-api-with-nestjs-34ek)
 - [Why you should really take a look at PlanetScale](https://dev.to/jpreagan/why-you-should-really-take-a-look-at-planetscale-8kf)
 - [Give your blog superpowers with MDX in a Next.js project](https://dev.to/jpreagan/give-your-blog-superpowers-with-mdx-in-a-nextjs-project-334d)
 - [Starting a personal dashboard with the Spotify API](https://dev.to/jpreagan/starting-a-personal-dashboard-with-the-spotify-api-526p)
 - [Four ways to fetch data from the GitHub GraphQL API in Next.js](https://dev.to/jpreagan/four-ways-to-fetch-data-from-the-github-graphql-api-in-nextjs-p4i)
-- [Adding Cypress tests to a TypeScript project and deploying to Netlify](https://dev.to/jpreagan/adding-cypress-tests-to-a-typescript-project-and-deploying-to-netlify-450k)
 <!-- BLOG-POST-LIST:END -->
 
 ### Connect with me:
