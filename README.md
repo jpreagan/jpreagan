@@ -2,9 +2,9 @@
 
 ### A software engineer in Hawaii
 
-- 🔭 I’m currently working on **performant and accessible web applications.**
+- 🔭 I’m building **scalable and performant REST API and GraphQL servers**
 
-- 🌱 I’m currently learning **full stack JavaScript.**
+- 🌱 I’m currently exploring **NestJS.**
 
 - 👯 I’m looking to collaborate on **open source projects.**
 
