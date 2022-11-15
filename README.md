@@ -2,7 +2,7 @@
 
 ### A software engineer in Hawaii
 
-- 🔭 I’m building **scalable and performant REST API and GraphQL servers**
+- 🔭 I’m building scalable and performant **REST API and GraphQL servers** in TypeScript.
 
 - 🌱 I’m currently exploring **NestJS.**
 
