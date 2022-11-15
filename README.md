@@ -2,7 +2,7 @@
 
 ### A software engineer in Hawaii
 
-- 🔭 I’m currently working on scalable and performant **REST API and GraphQL servers** in TypeScript.
+- 🔭 I’m currently working on scalable and performant **REST API** and **GraphQL servers** in TypeScript.
 
 - 🌱 I’m exploring **NestJS** at the moment.
 
