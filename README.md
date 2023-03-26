@@ -34,7 +34,6 @@ I'm a software engineer who loves building high-quality, scalable, and performan
 ### Recent posts
 
 <!-- BLOG-POST-LIST:START -->
-
 - [Building Your Own Platform: The Importance of Having a Personal Website](https://dev.to/jpreagan/building-your-own-platform-the-importance-of-having-a-personal-website-3a26)
 - [Let&#39;s build a REST API with NestJS](https://dev.to/jpreagan/lets-build-a-rest-api-with-nestjs-34ek)
 - [Why you should really take a look at PlanetScale](https://dev.to/jpreagan/why-you-should-really-take-a-look-at-planetscale-8kf)
