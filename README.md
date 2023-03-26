@@ -1,6 +1,6 @@
 # Aloha 👋, I'm James Reagan
 
-### Passionate Software Engineer based in Hawaii 🤙 🌴
+### Passionate Software Engineer based in Hawaii 🌴 🤙
 
 🌐 [jpreagan.com](https://jpreagan.com)
 
@@ -8,9 +8,9 @@ I'm a software engineer who loves building high-quality, scalable, and performan
 
 - 💻 I’m currently working on scalable and performant **REST API and GraphQL** servers using TypeScript.
 
-- 🌿 Exploring the **Go** and **Rust** programming languages.
+- 🌿 I'm currently exploring the **Go** and **Rust** programming languages.
 
-- 🌍 Actively seeking collaboration on open source projects.
+- 🌍 I actively seek collaboration on open source projects.
 
 - ✍ ️I regularly publish articles on my blog, [jpreagan.com](https://jpreagan.com).
 
