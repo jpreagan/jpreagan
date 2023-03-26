@@ -20,8 +20,7 @@ I'm a software engineer who loves building high-quality, scalable, and performan
 
 ### Recent videos
 
-<!-- YOUTUBE:START -->
-<table><tr><td><a href="https://www.youtube.com/watch?v=Ob8_MpAZ7ps"><img width="140px" src="https://i.ytimg.com/vi/Ob8_MpAZ7ps/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=Ob8_MpAZ7ps"><img width="140px" src="https://i.ytimg.com/vi/Ob8_MpAZ7ps/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Ob8_MpAZ7ps">Let&#39;s build a REST API with NestJS, TypeScript, Prisma, and PlanetScale</a><br/>Nov 11, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=I3EgHcya0fc"><img width="140px" src="https://i.ytimg.com/vi/I3EgHcya0fc/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=I3EgHcya0fc">Give your blog superpowers with MDX in a Next.js project</a><br/>Sep 23, 2022</td></tr></table>
