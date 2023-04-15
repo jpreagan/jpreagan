@@ -2,7 +2,7 @@
 
 ### 💗 Passionate Software Engineer based in Hawaii 🌴
 
-Visit my personal website - 🌐 [jpreagan.com](https://jpreagan.com) - 
+Visit my personal website - 🌐 [jpreagan.com](https://jpreagan.com)
 
 I'm a software engineer who loves building high-quality, scalable, and performant applications using modern web technologies. I have a particular interest in **free and open source software**, and always eager to learn new technologies and languages. Feel free to reach out if you're looking for a dedicated, collaborative, and creative developer to join your team!
 
