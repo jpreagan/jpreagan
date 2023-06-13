@@ -1,6 +1,6 @@
 # Aloha 👋, I'm James Reagan
 
-### 💗 Passionate Software Engineer based in Hawaii 🌴
+### 💗 Passionate Software Engineer based in Hawaiʻi 🌴
 
 Visit my personal website - 🌐 [jpreagan.com](https://jpreagan.com)
 
@@ -18,38 +18,17 @@ I'm a software engineer who loves building high-quality, scalable, and performan
 
 - 📩 Get in touch with me at james@jpreagan.com
 
-### Recent videos
-
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=Ob8_MpAZ7ps"><img width="140px" src="https://i.ytimg.com/vi/Ob8_MpAZ7ps/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=Ob8_MpAZ7ps">Let&#39;s build a REST API with NestJS, TypeScript, Prisma, and PlanetScale</a><br/>Nov 11, 2022</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=I3EgHcya0fc"><img width="140px" src="https://i.ytimg.com/vi/I3EgHcya0fc/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=I3EgHcya0fc">Give your blog superpowers with MDX in a Next.js project</a><br/>Sep 23, 2022</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=ncYrUMWnFLQ"><img width="140px" src="https://i.ytimg.com/vi/ncYrUMWnFLQ/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=ncYrUMWnFLQ">Server-render your Spotify data in a JavaScript application</a><br/>Sep 8, 2022</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=Bly6ek8sR9g"><img width="140px" src="https://i.ytimg.com/vi/Bly6ek8sR9g/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=Bly6ek8sR9g">Four ways to fetch data from the GitHub GraphQL API in Next.js</a><br/>Aug 24, 2022</td></tr></table>
-<!-- YOUTUBE:END -->
-
-### Recent posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Building Your Own Platform: The Importance of Having a Personal Website](https://dev.to/jpreagan/building-your-own-platform-the-importance-of-having-a-personal-website-3a26)
-<!-- BLOG-POST-LIST:END -->
-
 ### Connect with me:
 
 <p align="left">
-  <a href="https://twitter.com/jpreagan_" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jpreagan_" height="30" width="40" />
-  </a>
   <a href="https://linkedin.com/in/jpreagan" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jpreagan" height="30" width="40" />
   </a>
-  <a href="https://dev.to/jpreagan" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="jpreagan" height="30" width="40" />
+  <a href="https://twitter.com/jpreagan_" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jpreagan_" height="30" width="40" />
   </a>
-  <a href="https://www.youtube.com/channel/UCFBAMSjeJOmQ-gLrqczjRbg" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucfbamsjejomq-glrqczjrbg" height="30" width="40" />
+  <a href="https://instagram.com/jpreagan_" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jpreagan_" height="30" width="40" />
   </a>
 </p>
 
@@ -117,4 +96,4 @@ I'm a software engineer who loves building high-quality, scalable, and performan
 
 [![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=jpreagan)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
-![profile views](https://gpvc.arturio.dev/jpreagan)
+![profile views](https://komarev.com/ghpvc/?jpreagan)
