@@ -21,11 +21,11 @@ I'm a software engineer who loves building high-quality, scalable, and performan
 ### Connect with me:
 
 <p align="left">
-  <a href="https://linkedin.com/in/jpreagan" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jpreagan" height="30" width="40" />
-  </a>
   <a href="https://twitter.com/jpreagan_" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jpreagan_" height="30" width="40" />
+  </a>
+  <a href="https://linkedin.com/in/jpreagan" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jpreagan" height="30" width="40" />
   </a>
   <a href="https://instagram.com/jpreagan_" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jpreagan_" height="30" width="40" />
@@ -95,5 +95,3 @@ I'm a software engineer who loves building high-quality, scalable, and performan
 [![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jpreagan)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=jpreagan)](https://github.com/DenverCoder1/github-readme-streak-stats)
-
-![profile views](https://komarev.com/ghpvc/?jpreagan)
