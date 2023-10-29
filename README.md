@@ -32,6 +32,7 @@ I'm a software engineer who loves building high-quality, scalable, and performan
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Importance of Having a Personal Website as a Software Engineer](https://jpreagan.com/blog/the-importance-of-having-a-personal-website-as-a-software-engineer)
 <!-- BLOG-POST-LIST:END -->
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=jpreagan)](https://github.com/anuraghazra/github-readme-stats)
