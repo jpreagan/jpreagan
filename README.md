@@ -30,7 +30,7 @@ I'm a software engineer who loves building high-quality, scalable, and performan
   </a>
 </p>
 
-# Blog posts
+### Blog posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
