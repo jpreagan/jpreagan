@@ -6,7 +6,7 @@ Visit my personal website - 🌐 [jpreagan.com](https://jpreagan.com)
 
 I'm a software engineer who loves building scalable and performant applications using modern web technologies. I have a particular interest in **free and open source software**, and always eager to learn new technologies and languages. Feel free to reach out if you're looking for a dedicated, collaborative, and creative developer to join your team!
 
-- 🤖 I'm exploring machine learning and diving into projects that solve real-world problems.
+- 🤖 I'm exploring ML/AI and diving into projects that solve real-world problems.
   
 - 🌿 I love web fundamentals and building full stack applications with **Remix**!
 
