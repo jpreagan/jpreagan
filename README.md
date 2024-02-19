@@ -25,9 +25,6 @@ I'm a software engineer who loves building scalable and performant applications 
   <a href="https://linkedin.com/in/jpreagan" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jpreagan" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/jpreagan_" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jpreagan_" height="30" width="40" />
-  </a>
 </p>
 
 ### Blog posts
@@ -35,9 +32,3 @@ I'm a software engineer who loves building scalable and performant applications 
 - [Can you really run LLMs locally on your laptop?](https://jpreagan.com/blog/can-you-really-run-llms-locally-on-your-laptop/)
 - [How Tech Conferences Can Shape Your Career Path](https://jpreagan.com/blog/how-tech-conferences-can-shape-your-career-path/)
 <!-- BLOG-POST-LIST:END -->
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=jpreagan)](https://github.com/anuraghazra/github-readme-stats)
-
-[![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jpreagan)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=jpreagan)](https://github.com/DenverCoder1/github-readme-streak-stats)
