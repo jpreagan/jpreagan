@@ -16,4 +16,4 @@ jobs:
       - name: Pull in jpreagan.com posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://jpreagan.com/rss.xml"
+          feed_list: "https://jpreagan.com/feed/"
