@@ -32,9 +32,8 @@ I'm a software engineer who loves building scalable and performant applications 
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Can you really run LLMs locally on your laptop?](https://jpreagan.com/blog/can-you-really-run-llms-locally-on-your-laptop)
-- [How Tech Conferences Can Shape Your Career Path](https://jpreagan.com/blog/how-tech-conferences-can-shape-your-career-path)
-- [The Importance of Having a Personal Website as a Software Engineer](https://jpreagan.com/blog/the-importance-of-having-a-personal-website-as-a-software-engineer)
+- [Can you really run LLMs locally on your laptop?](https://jpreagan.com/blog/can-you-really-run-llms-locally-on-your-laptop/)
+- [How Tech Conferences Can Shape Your Career Path](https://jpreagan.com/blog/how-tech-conferences-can-shape-your-career-path/)
 <!-- BLOG-POST-LIST:END -->
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=jpreagan)](https://github.com/anuraghazra/github-readme-stats)
