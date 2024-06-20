@@ -29,6 +29,5 @@ I'm a software engineer who loves building scalable and performant applications 
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Can you really run LLMs locally on your laptop?](https://jpreagan.com/blog/can-you-really-run-llms-locally-on-your-laptop/)
-- [How Tech Conferences Can Shape Your Career Path](https://jpreagan.com/blog/how-tech-conferences-can-shape-your-career-path/)
+- [Become a command line wizard with a modern shell environment](https://jpreagan.com/blog/become-a-command-line-wizard-with-a-modern-shell-environment/)
 <!-- BLOG-POST-LIST:END -->
