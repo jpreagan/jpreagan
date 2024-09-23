@@ -1,7 +1,5 @@
 # Aloha 👋, I'm James Reagan
 
-## AI Engineer
-
 Visit my personal website - 🌐 [jpreagan.com](https://jpreagan.com)
 
 My work focuses on leveraging artificial intelligence to transform complex data into actionable intelligence for mission-critical operations. I have a particular interest in **free and open source software**, and always eager to learn new things. Feel free to reach out if you're looking for a dedicated, collaborative, and creative engineer to join your team!
