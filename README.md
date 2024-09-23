@@ -29,5 +29,6 @@ I'm a software engineer who loves building scalable and performant applications 
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Getting started with retrieval augmented generation using Langchain and Llama 3.1](https://jpreagan.com/blog/getting-started-with-retrieval-augmented-generation-using-langchain-and-llama-3-1/)
 - [Become a command line wizard with a modern shell environment](https://jpreagan.com/blog/become-a-command-line-wizard-with-a-modern-shell-environment/)
 <!-- BLOG-POST-LIST:END -->
