@@ -1,20 +1,25 @@
 # Aloha 👋, I'm James Reagan
 
-### 💗 Passionate Software Engineer based in Hawaiʻi 🌴
+## AI Engineer
 
 Visit my personal website - 🌐 [jpreagan.com](https://jpreagan.com)
 
-I'm a software engineer who loves building scalable and performant applications using modern web technologies. I have a particular interest in **free and open source software**, and always eager to learn new things. Feel free to reach out if you're looking for a dedicated, collaborative, and creative developer to join your team!
+My work focuses on leveraging artificial intelligence to transform complex data into actionable intelligence for mission-critical operations. I have a particular interest in **free and open source software**, and always eager to learn new things. Feel free to reach out if you're looking for a dedicated, collaborative, and creative engineer to join your team!
 
-- 🤖 I'm exploring **ML/AI** and diving into projects that solve real-world problems.
+### 🚀 What I'm up to:
 
-- 🌍 I actively seek collaboration on open source projects.
+- 💼 Designing and implementing artificial intelligence systems for high-security environments
+- 🤖 Developing AI/ML applications to enhance mission-critical operations
+- 🌱 Continuously learning and adapting to the research advancements in AI/ML
+- ✍️ Sharing insights and experiences on my blog at [jpreagan.com](https://jpreagan.com)
 
-- ✍ ️I regularly publish articles on my blog, [jpreagan.com](https://jpreagan.com).
+### 💡 My Interests:
 
-- 💡 Feel free to ask me about web development, career transitions, or anything else!
-
-- 📩 Get in touch with me at james@jpreagan.com
+- Large Language Models (LLMs)
+- AI ethics and responsible AI development
+- Machine learning in secure and sensitive environments
+- AI/ML model optimization and deployment
+- Open-source AI tools and frameworks
 
 ### Connect with me:
 
