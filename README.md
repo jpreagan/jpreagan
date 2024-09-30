@@ -32,6 +32,7 @@ My work focuses on leveraging artificial intelligence to transform complex data 
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Level up your software engineering skills without burnout](https://jpreagan.com/blog/level-up-your-software-engineering-skills-without-burnout/)
 - [Getting started with retrieval augmented generation using Langchain and Llama 3.1](https://jpreagan.com/blog/getting-started-with-retrieval-augmented-generation-using-langchain-and-llama-3-1/)
 - [Become a command line wizard with a modern shell environment](https://jpreagan.com/blog/become-a-command-line-wizard-with-a-modern-shell-environment/)
 <!-- BLOG-POST-LIST:END -->
